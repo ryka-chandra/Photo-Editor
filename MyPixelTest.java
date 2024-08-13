@@ -23,8 +23,6 @@ public class MyPixelTest {
         assertEquals(30, p.getBlue());
     }
 
-    /* ADD YOUR OWN TESTS BELOW */
-
     @Test
     public void testContructWithNullArray() {
         int[] arr = null;
